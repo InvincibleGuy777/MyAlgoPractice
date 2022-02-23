@@ -1,3 +1,10 @@
+/*
+Code: Uva210 并行程序模拟 from 《算法竞赛入门经典》(第二版) Chapter6 eg6_1 
+Author: 圣哥
+My CSDN blog: https://blog.csdn.net/weixin_42430021
+Create Date: 21/02/23
+Last update: 21/02/23
+*/ 
 #include<iostream>
 #include<queue>
 #include<deque>
