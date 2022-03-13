@@ -2,8 +2,8 @@
 Code: Uva129 from 《算法竞赛入门经典》(第二版) Chapter7 eg7_5 
 Author: 圣哥
 My CSDN blog: https://blog.csdn.net/weixin_42430021
-Create Date: 21/02/26
-Last update: 21/02/26
+Create Date: 22/02/26
+Last update: 22/02/26
 */ 
 #include<iostream>
 #include<cstdio>
